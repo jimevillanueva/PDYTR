@@ -1,0 +1,5 @@
+Cantidad caracteres: 10 a la  4. El tiempo fue: 0 segundos y 14480 microsegundos
+Cantidad caracteres: 10 a la  5. El tiempo fue: 0 segundos y 4849 microsegundos
+Cantidad caracteres: 10 a la  6. El tiempo fue: 1 segundos y 16453 microsegundos
+Cantidad caracteres: 10 a la  7. El tiempo fue: 0 segundos y 102720 microsegundos
+Cantidad caracteres: 10 a la  8. El tiempo fue: 1 segundos y 566663 microsegundos
